@@ -82,7 +82,6 @@ DREAME_MODELS = [
     "dreame.vacuum.p2028",
     "dreame.vacuum.p2157",
     "dreame.vacuum.p2156o",
-    "mova.vacuum.r2491",
     "dreame.vacuum.r2491"
 ]
 

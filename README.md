@@ -76,7 +76,7 @@ Complete app replacement with Home Assistant for Dreame robot vacuums.
 ### Manually
 
 ```sh
-wget -O - https://raw.githubusercontent.com/Tasshack/dreame-vacuum/master/install | bash -
+wget -O - https://raw.githubusercontent.com/biishan/dreame-vacuum/master/install | bash -
 ```
 
 
